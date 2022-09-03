@@ -55,7 +55,7 @@ body{
     position: absolute;
     background-color: var(--color-accent-Softviolet);
     opacity: .7;
-    filter:brightness(0.7);
+    filter:brightness(1);
 }
 
 .content-right img{
