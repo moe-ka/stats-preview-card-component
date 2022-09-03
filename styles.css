@@ -58,6 +58,11 @@ body{
     filter:brightness(0.7);
 }
 
+.content-right img{
+    mix-blend-mode: multiply;
+    opacity: 75%;
+}
+
 .content-right .hero{
     height: 100%;
     width: 100%;
